@@ -2,7 +2,7 @@
 
 Currently working on AI and robotics broadly. My website is [lin.ai](https://lin.ai)
 
-Please come say hi at justin [at] lin.ai or on [Twitter](https://twitter.com/justinlinw)
+Please come say hi via [email](mailto:justin@lin.ai) or on [Twitter](https://twitter.com/justinlinw)
 
 <!--
 **justinlinw/justinlinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
