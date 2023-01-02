@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey! 👋 → [lin.ai](https://lin.ai) 
+
+Please come say hi via [email](mailto:justin@lin.ai) or on [Twitter](https://twitter.com/justinlinw)
 
 <!--
 **justinlinw/justinlinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
