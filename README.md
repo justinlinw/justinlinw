@@ -1,4 +1,4 @@
-# Hey! 👋 → [lin.ai](https://lin.ai) 
+# Hey! 👋🏼 → [lin.ai](https://lin.ai) 
 
 Please come say hi via [email](mailto:justin@lin.ai) or on [Twitter](https://twitter.com/justinlinw)
 
