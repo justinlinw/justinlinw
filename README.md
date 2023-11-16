@@ -1,6 +1,6 @@
-# Hey! 👋🏼 → [lin.ai](https://lin.ai) 
+# Hey! 👋🏼 → [LIN.AI](https://lin.ai) 
 
-I'm an organic, non-GMO, artisanally raised soy-dev working on non-soydev problems. If this interests you, please come say hi via [email](mailto:justin@lin.ai) or on [Twitter](https://twitter.com/justinlinw) :)
+I'm an organically raised, non-GMO, artisanal soy-dev tackling non-soydev problems. Interested? Say hi → [email](mailto:justin@lin.ai) or on [Twitter/X](https://twitter.com/justinlinw) :)
 <!--
 **justinlinw/justinlinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
